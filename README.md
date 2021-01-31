@@ -2,8 +2,7 @@
 
 Our GGJ 2021 Project
 
-https://globalgamejam.org/2021/games/lost-and-funded-2
-
+Play:
 https://niklasreinhold.github.io/LostAndFunded-GGJ21/
 
 ![Bildtext](Titelbild.jpg "Titelbild")
@@ -26,3 +25,5 @@ Credits:
 All credits go to Elon Musk!
 
 Team: florianprechtl, Michi McZero, NiklasR
+
+Project Link: https://globalgamejam.org/2021/games/lost-and-funded-2
